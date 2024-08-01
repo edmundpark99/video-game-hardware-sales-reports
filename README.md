@@ -72,14 +72,43 @@ Handheld markets saw new entries, with the Game Boy Advance. Although the Nokia 
 
 **Seventh Generation**
 
-The Seventh Generation, beginning in 2005, began with a now consolidated market, and the three remaining hardware manufacters introducing new consoles: Microsoft's Xbox 360, Sony's PlayStation 3, and Nintendo's Wii. All three focused on different things, but made the video game market more widespread to even wider audiences of consumers, with all three seeing phenomenal commercial success as a result, and no particular console selling significantly more than the others. The Xbox 360 and PlayStation 3 focused on online interactivity and game consoles as multimedia devices, while the Wii's revolutionary motion controls made for games that even non-video game players got to enjoy.
+The Seventh Generation, beginning in 2005, began with a now consolidated market, and the three remaining hardware manufacters introducing new consoles: Microsoft's Xbox 360, Sony's PlayStation 3, and Nintendo's Wii. All three focused on different things, but made the video game market more widespread to even wider audiences of consumers, with all three seeing phenomenal commercial success as a result, and no particular console selling significantly more than the others. The Xbox 360 and PlayStation 3 focused on online interactivity and game consoles as multimedia devices, while the Wii's revolutionary motion controls made for games that even non-video game players got to enjoy. The near equivalent and great success of all three consoles led to the highest sales of home consoles at the time, at 274.76 million consoles.
 
 ![image](https://github.com/user-attachments/assets/068e0acb-79c4-4d10-8f81-f345ec90e0a6)
 
 ![image](https://github.com/user-attachments/assets/1c6020d9-8640-4554-aa66-67235ae160ec)
 
-The handheld market saw immense popularity, with Sony also entering with the PlayStation Portable, and Nintendo creating the Nintendo DS, well known for its dual screen interface and touch-screen. Both saw incredible commercial success, with the DS selling 154 million units, and the PlayStation Portable also enjoying high sales.
+The handheld market saw immense popularity, with Sony also entering with the PlayStation Portable, and Nintendo creating the Nintendo DS, well known for its dual screen interface and touch-screen. Both saw incredible commercial success, with the DS selling 154 million units, and the PlayStation Portable also enjoying high sales. In total, this was the highest amount of portable game consoles ever sold in history.
 
 ![image](https://github.com/user-attachments/assets/fc30e47a-a538-4140-b506-4d26da188075)
 
-![image](https://github.com/user-attachments/assets/5a98cfc8-419e-4b5d-85d2-115098b254fd)
+![image](https://github.com/user-attachments/assets/e5b351d5-a9d0-4db4-8a9f-d49e4162fe22)
+
+**Eighth Generation**
+
+The Eighth Generation began in the early 2010s and spanned the entire decade. With the hardware market fully consolidated, the established hardware manufacters released new hardware yet again, with Nintendo's Wii U, Sony's PlayStation 4, and Microsoft's Xbox One. The Wii U was a commercial failure, failing to generate sales and ultimately dying prematurely a little over four years after debut, only selling 13.56 million units in total. The PlayStation 4 and Xbox One saw more solid sales, with the PlayStation 4 selling 117.18 million units, and the Xbox One was noticeably behind at 57.96 million units, though this was still a commercial success. Nintendo responded to the Wii U's failure with the introduction of the Nintendo Switch, a hybrid home and portable console, in 2017, which was able to properly compete with the PlayStation 4 and Xbox One and ultimately surpass both in sales, having sold 141.32 million units as of the last fiscal year, being a phenomal success, and will likely increase slightly in what is its final fiscal year on the market as of writing. With both the Nintendo Switch and PlayStation 4 selling well over 100 million units, both Nintendo and Sony shared incredible success that surpassed even their previous commercial successes in history. Microsoft saw a decrease from their previous console, the Xbox 360, and sold much less units of the Xbox One than the PlayStation 4 or Switch, but still enjoyed a healthy commercial success and maintained a solid share of the market. 
+
+![image](https://github.com/user-attachments/assets/8d8dee9e-b3f0-4f53-a907-960d98d2b281)
+
+![image](https://github.com/user-attachments/assets/23c60cf0-c71a-479a-bdbd-f3703d5ec535)
+
+In total, the number of home consoles sold amongst the eighth generation home consoles is the greatest ever sold at present, at a total of 330.02, which may increase even further in this fiscal year. 
+
+In the handheld console market, however, while Nintendo and Sony continued with the Nintendo 3DS and PlayStation Vita in 2011 and 2012 respectively, the popularity of portable consoles had decreased, due to the rise of smartphones and tablets capable of playing video games. As such, fewer portable consoles were sold, with the 3DS selling only 75.95 million, the PlayStation Vita selling a mere 15.82 million, and Nintendo's later dedicated handheld model of the Switch, the Switch Lite, released in 2019, has sold 23.54 units, making up a minority of Switch sales as the majority are the primary hybrid models. In total, 115.3 million handheld consoles between the three were sold, a notable decrease from the previous generation. The 3DS outsold the PlayStation Vita by a notable margin in total, however, it is clear that portable consoles as they were at the time appealed to a much smaller market than before.
+
+![image](https://github.com/user-attachments/assets/c44759f7-b513-4eb8-9df7-58a72db10e03)
+
+![image](https://github.com/user-attachments/assets/dfac7ae4-251c-4cb8-8f62-a7b4d4cec9a2)
+
+**Ninth Generation**
+
+The ninth generation is the current generation of hardware, ongoing since 2020. The current entries are Microsoft's Xbox Series X and S consoles and Sony's PlayStation 5. Nintendo has yet to make a proper entry into the current generation, however, they are expected to within this fiscal year as of present, with Nintendo president Shuntaro Furukawa confirming their next generation console and successor to the Nintendo Switch will be announced in the near future. Once they do, data will be updated to include them. As this generation is ongoing, data and total sales will continue to change, as the PlayStation 5 and Xbox Series X continue selling more units, and Nintendo will join with their next console in the future. As it currently stands, however, they are both selling units, but the PS5 has outsold the Xbox Series X by a little over double the amount, thus holding a majority of the market share. 
+
+![image](https://github.com/user-attachments/assets/6cc0379d-3551-4afb-af0c-fff473bea7ec)
+
+![image](https://github.com/user-attachments/assets/b95dacbc-96d4-44f4-815b-1e85ff9fdd16)
+
+In the handheld market, no new portable consoles from the current manufacterers have been made at present. However, Valve has released the Steam Deck, a new dedicated handheld that plays its PC-centric games in a dedicated handheld device. Valve has not released definitive sales numbers, but has said that the Steam Deck has sold multiple million units, so it can be assumed to be a reasonably successful platform so far. The successor to the Nintendo Switch is expected to be a hybrid home and portable console much like the original Nintendo Switch, and will likely also act as a competitor to the Steam Deck in addition to as a competitor to the PlayStation 5 and Xbox Series X in the home console department. However, as the latter has yet to be released and the former does not have definitive sales numbers disclosed, no data can be inferred about this market at present.
+
+**References**
+https://www.vgchartz.com/charts/platform_totals/Hardware.php/
